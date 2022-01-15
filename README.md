@@ -95,7 +95,7 @@ root.configure(bg=background_color)
 .
 When I analyzed the code, I felt that there may be an issue with lines number 47 &48. Please help me rectify this if there is any problem.
 
->Would be happy to get you a helpful contribution.
+>Would be happy to get your helpful contribution.
 
 
 
