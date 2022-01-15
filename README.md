@@ -90,12 +90,16 @@ roll_button.pack(side=BOTTOM,pady=30)
 root.configure(bg=background_color) 
 ```
 
+## Issue
+>when I run the code everything works perfectly but the images are not changing on the front part.
+.
+When I analyzed the code, I felt that there may be an issue with lines number 47 &48. Please help me rectify this if there is any problem.
 
+>Would be happy to get you a helpful contribution.
 
 
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
 
